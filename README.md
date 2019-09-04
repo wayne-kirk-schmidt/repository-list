@@ -15,9 +15,9 @@ List of Projects
 
     A) Programming Projects
 
-        1) [ WinBatch ] (https://github.com/wayne-kirk-schmidt/windows-batch-projects)
+        [ WinBatch ] (https://github.com/wayne-kirk-schmidt/windows-batch-projects)
 
-        2) [ Vbscript ] (https://github.com/wayne-kirk-schmidt/vbscript-projects)
+        [ Vbscript ] (https://github.com/wayne-kirk-schmidt/vbscript-projects)
 
         3) [ Python ] (https://github.com/wayne-kirk-schmidt/python-projects)
 
