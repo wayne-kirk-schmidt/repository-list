@@ -13,32 +13,32 @@ This will have links to different projects, which are organized into:
 List of Projects
 ================
 
-    A) Programming Projects
+A) Programming Projects
 
-        1) [WinBatch](https://github.com/wayne-kirk-schmidt/windows-batch-projects)
+[WinBatch](https://github.com/wayne-kirk-schmidt/windows-batch-projects)
 
-        2) [Vbscript](https://github.com/wayne-kirk-schmidt/vbscript-projects)
+[Vbscript](https://github.com/wayne-kirk-schmidt/vbscript-projects)
 
-        3) [Python](https://github.com/wayne-kirk-schmidt/python-projects)
+[Python](https://github.com/wayne-kirk-schmidt/python-projects)
 
-        4) [Perl](https://github.com/wayne-kirk-schmidt/perl-projects)
+[Perl](https://github.com/wayne-kirk-schmidt/perl-projects)
 
-        5) [Ruby](https://github.com/wayne-kirk-schmidt/ruby-projects)
+[Ruby](https://github.com/wayne-kirk-schmidt/ruby-projects)
 
-        6) [UnixBash](https://github.com/wayne-kirk-schmidt/bash-projects)
+[UnixBash](https://github.com/wayne-kirk-schmidt/bash-projects)
 
-    B) Deployment Projects
+B) Deployment Projects
 
-        1) [Security](https://github.com/wayne-kirk-schmidt/security-projects)
+[Security](https://github.com/wayne-kirk-schmidt/security-projects)
 
-        2) [DevOps](https://github.com/wayne-kirk-schmidt/devops-projects)
+[DevOps](https://github.com/wayne-kirk-schmidt/devops-projects)
 
-        3) [Testing](https://github.com/wayne-kirk-schmidt/testing-projects)
+[Testing](https://github.com/wayne-kirk-schmidt/testing-projects)
 
 
-    C) Design Projects
+C) Design Projects
 
-        1) Coming Soon
+[Coming Soon]
 
 Dependencies
 ============
