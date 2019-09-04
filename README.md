@@ -38,7 +38,7 @@ B) Deployment Projects
 
 C) Design Projects
 
-[Coming Soon]
+*Coming Soon*
 
 Dependencies
 ============
