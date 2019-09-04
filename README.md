@@ -15,25 +15,25 @@ List of Projects
 
     A) Programming Projects
 
-        [ WinBatch ] (https://github.com/wayne-kirk-schmidt/windows-batch-projects)
+        1) [WinBatch](https://github.com/wayne-kirk-schmidt/windows-batch-projects)
 
-        [ Vbscript ] (https://github.com/wayne-kirk-schmidt/vbscript-projects)
+        2) [Vbscript](https://github.com/wayne-kirk-schmidt/vbscript-projects)
 
-        3) [ Python ] (https://github.com/wayne-kirk-schmidt/python-projects)
+        3) [Python](https://github.com/wayne-kirk-schmidt/python-projects)
 
-        4) [ Perl ] (https://github.com/wayne-kirk-schmidt/perl-projects)
+        4) [Perl](https://github.com/wayne-kirk-schmidt/perl-projects)
 
-        5) [ Ruby ] (https://github.com/wayne-kirk-schmidt/ruby-projects)
+        5) [Ruby](https://github.com/wayne-kirk-schmidt/ruby-projects)
 
-        6) [ UnixBash ] (https://github.com/wayne-kirk-schmidt/bash-projects)
+        6) [UnixBash](https://github.com/wayne-kirk-schmidt/bash-projects)
 
     B) Deployment Projects
 
-        1) [ Security ] (https://github.com/wayne-kirk-schmidt/security-projects)
+        1) [Security](https://github.com/wayne-kirk-schmidt/security-projects)
 
-        2) [ DevOps   ] (https://github.com/wayne-kirk-schmidt/devops-projects)
+        2) [DevOps](https://github.com/wayne-kirk-schmidt/devops-projects)
 
-        3) [ Testing ] (https://github.com/wayne-kirk-schmidt/testing-projects)
+        3) [Testing](https://github.com/wayne-kirk-schmidt/testing-projects)
 
 
     C) Design Projects
