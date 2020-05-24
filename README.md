@@ -6,9 +6,11 @@ security, devops, specific programming languages, and thoughts on systems.
 
 This will have links to different projects, which are organized into:
 
-`1) coding projects - this will have code, installation instructions
- 2) design projects - these will have mind maps, drawings, documents
- 3) deploy projects - a how-to on how to integrate components into a system
+    1. Coding projects - this will have code, installation instructions
+
+    2. Design projects - these will have mind maps, drawings, documents
+
+    3. Platform projects - projects focused on a specific platform
 
 List of Projects
 ================
@@ -27,7 +29,7 @@ List of Projects
 
 [UnixBash](https://github.com/wayne-kirk-schmidt/bash-projects)
 
-* Deployment Projects
+* Design Projects
 
 [Security](https://github.com/wayne-kirk-schmidt/security-projects)
 
