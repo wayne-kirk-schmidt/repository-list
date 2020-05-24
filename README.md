@@ -13,7 +13,7 @@ This will have links to different projects, which are organized into:
 List of Projects
 ================
 
-A) Programming Projects
+* Programming Projects
 
 [WinBatch](https://github.com/wayne-kirk-schmidt/windows-batch-projects)
 
@@ -27,7 +27,7 @@ A) Programming Projects
 
 [UnixBash](https://github.com/wayne-kirk-schmidt/bash-projects)
 
-B) Deployment Projects
+* Deployment Projects
 
 [Security](https://github.com/wayne-kirk-schmidt/security-projects)
 
@@ -36,9 +36,9 @@ B) Deployment Projects
 [Testing](https://github.com/wayne-kirk-schmidt/testing-projects)
 
 
-C) Design Projects
+* Platform Specific Projects
 
-*Coming Soon*
+[Google Publish](https://github.com/wayne-kirk-schmidt/google-publish-tools)
 
 Dependencies
 ============
