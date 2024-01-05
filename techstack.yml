@@ -1,7 +1,8 @@
 repo_name: wayne-kirk-schmidt/repository-list
 report_id: b12bdcbdd73c0a75951221d6d51864eb
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T02:39:45+00:00'
+timestamp: '2024-01-05T09:03:15+00:00'
 requested_by: wayne-kirk-schmidt
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/wayne-kirk-schmidt/repository-list
   detection_source: Repo Metadata
